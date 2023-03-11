@@ -21,16 +21,22 @@ h1 {
 #template {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
-    background: linear-gradient(to bottom, #9900ff 0%, #99ccff 100%);
+    justify-content: space-around;
+    justify-items: center;
     padding: 10px;
     margin: 20px;
     margin-right: 10px;
-
+    
+  }
+  #template > .cards {
+    margin-right: 10px;
+    background: linear-gradient(to bottom, #9900ff 0%, #99ccff 100%);
+  
 }
 #desc {
   border: 5px solid  rgb(107, 10, 142);
   padding: 2px;
+  margin-right: 10px;
 }
 
 #pro {
