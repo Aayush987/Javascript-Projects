@@ -6,16 +6,17 @@ html {
   }
 
 body {
-    background: linear-gradient(to bottom, #0066ff 0%, #ff33cc 100%);
+    /* background: linear-gradient(to bottom, #0066ff 0%, #ff33cc 100%); */
+    background-color: #c8d8e4;
     font-size: 200%;
-    color: rgb(107, 10, 142);
+    color: #c8d8e4 ;
 }
 
 h1 {
     text-align: center;
     font-weight: bolder;
     font-size: 80px;
-    color: #99ccff;
+    color:#397754;
 }
 
 #template {
@@ -30,27 +31,28 @@ h1 {
   }
   #template > .cards {
     margin-right: 10px;
-    background: linear-gradient(to bottom, #9900ff 0%, #99ccff 100%);
+    /* background: linear-gradient(to bottom, #9900ff 0%, #99ccff 100%); */
+    background-color: ;
   
 }
 #desc {
-  border: 5px solid  rgb(107, 10, 142);
+  border: 5px solid  #52ab98;
   padding: 2px;
   margin-right: 10px;
 }
 
 #pro {
-    box-shadow: 2px 2px 2px 2px #9900ff;
+    box-shadow: 2px 2px 2px 2px #52ab98;
     
     height: 200px;
     width: 300px;
   }
   #pro:hover {
-    box-shadow: 4px 4px 4px 4px #9900ff;
+    box-shadow: 4px 4px 4px 4px #52ab98;
     transition: 0.3s;
   }
 
 p {
-  color: rgb(107, 10, 142);
+  color: #52ab98;
 
 }
