@@ -1,8 +1,5 @@
-a = 10;
-for(i= 0; i<10 ; i++) {
-    console.log(n);
-
+var a = 10;
+for(var i= 0; i<10; i++) {
+    console.log(a);
 }
-
-Array.push(9);
 console.log(12);
