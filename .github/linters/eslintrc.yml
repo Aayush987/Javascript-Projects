@@ -41,10 +41,11 @@ plugins:
 #########
 # Rules #
 #########
-rules: 
+rules:
   semi:
-      - warn
-      - always
+    - warn
+    - always
+
 
 
 ##############################
