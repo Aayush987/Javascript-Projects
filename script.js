@@ -5,4 +5,4 @@ for(i= 0; i<10 ; i++) {
 }
 
 Array.push(9);
-Console log(12);
+console.log(12);
