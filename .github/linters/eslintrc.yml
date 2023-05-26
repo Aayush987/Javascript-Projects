@@ -43,10 +43,8 @@ plugins:
 #########
 rules:
   semi:
-    - warn
-    - always
-
-
+  - 1
+  - always
 
 ##############################
 # Overrides for JSON parsing #
