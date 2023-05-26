@@ -41,10 +41,12 @@ plugins:
 #########
 # Rules #
 #########
+extends: standard
 rules:
   semi:
-  - 1
+  - 2
   - always
+
 
 ##############################
 # Overrides for JSON parsing #
